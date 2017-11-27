@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+        id="@+id/tab_map"
+        icon="@drawable/ic_location_on_black_24dp"
+        title="Карта" />
+
+
+    <tab
+        id="@+id/tab_advice"
+        icon="@drawable/ic_info_outline_black_24dp"
+        title="Советы" />
+
+</tabs>

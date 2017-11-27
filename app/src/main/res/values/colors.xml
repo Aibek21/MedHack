@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="primaryText">#212121</color>
+    <color name="drawerText">#757575</color>
+    <color name="colorHighlight">#d5f3d5</color>
+    <color name="secondaryText">#757575</color>
+
+
+    <color name="loginEditBackground">#f1f1f1</color>
+    <color name="loginButtonBackground">#f43e16</color>
+    <color name="greenButtonBackground">#08a517</color>
+    <color name="barChartColor">#a3a3a3</color>
+    <color name="barChartBorderColor">#dddddd</color>
+    <color name="blue">#3891ff</color>
+    <color name="orange">#e77c2e</color>
+    <color name="white">#fff</color>
+
+
+</resources>

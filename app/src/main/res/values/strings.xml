@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dispy</string>
+
+
+    <string name="error_invalid_email">This phone number is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="prompt_email">Email</string>
+
+</resources>
